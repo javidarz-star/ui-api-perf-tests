@@ -1,0 +1,27 @@
+{
+  "search": {
+    "productName": "iMac",
+    "category": "Cameras",
+    "manufacturer": "Apple"
+  },
+  "products": [
+    {"name": "HTC Touch HD"},
+    {"name": "iPod Nano"}
+  ],
+  "checkout": {
+    "firstName": "Automation",
+    "lastName": "Tester",
+    "telephone": "5551234567",
+    "company": "Automation QA",
+    "address1": "123 Test Lane",
+    "address2": "",
+    "city": "London",
+    "postcode": "SW1A 1AA",
+    "country": "United Kingdom",
+    "region": "Lancashire",
+    "paymentMethod": "Cash On Delivery",
+    "shippingMethod": "Flat Shipping Rate - $8.00",
+    "comment": "Automated checkout test - do not fulfill.",
+    "confirmationHeading": "Confirm Order"
+  }
+}
